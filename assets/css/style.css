@@ -105,8 +105,13 @@ a:hover {
     position: absolute;
     top: 20px;
     right: 15px;
+    cursor: pointer;
   }
-  
+
+  #hide-icon{
+    display: none;
+  }
+
   .login-form label {
     margin-bottom: 10px;
     color:#5E5E5E;
